@@ -1,0 +1,7 @@
+Simulations
+(1) JNL_NMSE_vs_Coverage
+(2) JNL_NMSE_vs_ReceivedSNR
+(3) JNL_NMSE_vs_Res
+(4) JNL_NMSE_vs_TrainingOverhead
+(5) JNL_RATE_vs_ReceivedSNR
+(6) JNL_RATE_vs_TrainingOverhead
